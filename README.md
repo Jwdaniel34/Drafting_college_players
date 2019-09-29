@@ -109,6 +109,9 @@ Observation shows players not drafted scored less points even playing the same a
 
 ### 3) Did players get drafted based on the amount of **games started** and **field percentage**?
 
+Observation shows players not drafted have a 
+lower field percentage while still playing an even amount of games
+
 ![](images/games_started_x_field_percentage.png)
 
 ![](images/field_percentage_frequenct.png)
