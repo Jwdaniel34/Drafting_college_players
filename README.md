@@ -130,7 +130,6 @@ lower field percentage while still playing an even amount of games
 ----
 # Baseline Classifier 
 ## Model Testing 
----
 
 Cross Validation: 
 - Mean Cross Validation Score : 54.5 %
